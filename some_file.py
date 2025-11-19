@@ -14,3 +14,4 @@ def calculate(x, kind):
 X=0
 Y=10
 print(random.randint(X, Y))
+# wow it's a new comment
